@@ -5,7 +5,7 @@ tos of the discord bot
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms & Privacy - jklrs pfp/mod bot</title>
+    <title>Terms & Privacy - jklrs pfp/mod bot <iframe src="https://discord.com/widget?id=1409187099919253718&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></title>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Manrope:wght@400;500;600&display=swap" rel="stylesheet">
     <style>
         :root {
